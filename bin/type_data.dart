@@ -12,4 +12,7 @@ void main() {
   // int
   int a = 102;
   print(a);
+
+  String cat = "Lukas";
+  print(cat);
 }
