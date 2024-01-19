@@ -9,5 +9,7 @@ void main() {
     4. boolean
   */
 
-    dsasadsa
+  // int
+  int a = 102;
+  print(a);
 }
