@@ -15,4 +15,7 @@ void main() {
 
   String cat = "Lukas";
   print(cat);
+
+  String test = "Lukas2";
+  print(test);
 }
