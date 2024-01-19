@@ -1,0 +1,10 @@
+List Belajar Dart Basic :
+- data - type data
+- Null Safety
+- Operator
+- List
+- Map
+- Looping
+- Functions
+- Anonymous Function
+- Enum
